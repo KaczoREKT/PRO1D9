@@ -9,7 +9,7 @@ from mlxtend.frequent_patterns import association_rules
 from mlxtend.frequent_patterns import apriori
 import pandas as pd
 
-# Nowe, bardziej interesujące dane transakcji
+# Dane transakcji
 transactions = [
     ['apple', 'banana', 'milk'],
     ['banana', 'coffee', 'bread'],
